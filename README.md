@@ -1,9 +1,9 @@
 # Caesar-Cipher-in-Python
 Caesar cipher is the encryption technique, in which we have to replace each letter in the text by a some other letter at a fixed difference. 
 
-## Example :-
-  # Plaintext:  Sushanth
-  # Ciphertext: Vxvkdqwk
+# Example :-
+  ## Plaintext:  Sushanth
+  ## Ciphertext: Vxvkdqwk
   Key = 3
   Hence here the letters in the plaintext are moved forward to 3 letters in order as Key==3.
   Therefore, S is replacced with V and u with x so oo=n .....
@@ -14,8 +14,8 @@ Caesar cipher is the encryption technique, in which we have to replace each lett
    
    Therefore for S the equation would be like chr((ord('S') + 3) mod 26) which would result in 'V'.
    
-   # input = Sushanth
-   # output = Vxvkdqwk
+   ## input = Sushanth
+   ## output = Vxvkdqwk
    
    
 # Concept for decryption of Caser cipher :-
@@ -25,5 +25,5 @@ Caesar cipher is the encryption technique, in which we have to replace each lett
    Where the input would for the equation will be 'V' as the first letter and the output must be 'S'
    therefore  the euation would be chr(ord('V') -3)mod 26) which would result in 'S'.
    
-   # input = Vxvkdqwk
-   # output = Sushanth
+   ## input = Vxvkdqwk
+   ## output = Sushanth
