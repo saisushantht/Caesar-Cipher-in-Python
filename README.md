@@ -13,7 +13,6 @@ Caesar cipher is the encryption technique, in which we have to replace each lett
    where, c is place value of encrypted letter,x is place value of actual letter,n is the number that shows us how many positions of letters we have to replace.
    
    Therefore for S the equation would be like chr((ord('S') + 3) mod 26) which would result in 'V'.
-   
    ## input = Sushanth
    ## output = Vxvkdqwk
    
