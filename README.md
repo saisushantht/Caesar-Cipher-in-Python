@@ -6,7 +6,7 @@ Caesar cipher is the encryption technique, in which we have to replace each lett
   ## Ciphertext: Vxvkdqwk
   Key = 3
   Hence here the letters in the plaintext are moved forward to 3 letters in order as Key==3.
-  Therefore, S is replacced with V and u with x so oo=n .....
+  Therefore, S is replacced with V and u with x so on .....
   
 # Concept of Caesar cipher encryption :-
    c = (x + n) mod 26
